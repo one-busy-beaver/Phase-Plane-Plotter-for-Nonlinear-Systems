@@ -206,8 +206,8 @@ void statusText() {
  */
 PVector F(float posX, float posY) {
     //translate the screen position to the coordinate position
-    float x = (originX - posX) / (100);
-    float y = (originY - posY) / (100);
+    float x = (posX - originX) / (100);
+    float y = -(posY - originY) / (100);
     
     // plug in values for the variables
     exprX.setVariable("x", x);
@@ -217,7 +217,7 @@ PVector F(float posX, float posY) {
     
     // calculate the value and creates a vector
     double dx = exprX.evaluate();
-    double dy = exprY.evaluate();
+    double dy = -exprY.evaluate(); // reflect y
     PVector dir = new PVector((float) dx, (float) dy);
     
     // rescale the vector to fit on the screen

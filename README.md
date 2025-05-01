@@ -10,7 +10,7 @@ Users can input differential equations and visualize their vector fields in real
 - Open Processing and run the [PDE file](plase_plane_plot/plase_plane_plot.pde). 
 ## How to Use
 - Left click and drag the grid.
-- Right click to place a red dot.
+- Right click to place the red dot.
 - Scroll up and down to simulate the dot moving in real time.
 - Custom input for dx and dy, press Enter to confirm.
 ## Demo

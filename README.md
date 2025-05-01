@@ -17,6 +17,7 @@ Users can input differential equations and visualize their vector fields in real
 <img src="demo/1.gif" alt="Demo1" width="400"/>
 <img src="demo/2.gif" alt="Demo2" width="400"/>
 <img src="demo/3.gif" alt="Demo3" width="400"/>
+
 ## Citation
 - I used the [exp4j Library](https://github.com/fasseg/exp4j) for parsing mathematical expressions. 
 

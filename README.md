@@ -12,7 +12,8 @@ Users can input differential equations and visualize their vector fields in real
 - Left click and drag the grid.
 - Right click to place a red dot.
 - Scroll up and down to simulate the dot moving in real time.
-- Custom input for dx and dy.
+![Demo](demo/1.gif)
+- Custom input for dx and dy, enter for confirm.
 ## Citation
 - I used the [exp4j Library](https://github.com/fasseg/exp4j) for parsing mathematical expressions. 
 

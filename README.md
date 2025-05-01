@@ -12,7 +12,7 @@ Users can input differential equations and visualize their vector fields in real
 - Left click and drag the grid.
 - Right click to place a red dot.
 - Scroll up and down to simulate the dot moving in real time.
-- Custom input for dx and dy, enter for confirm.
+- Custom input for dx and dy, press Enter for confirm.
 ## Demo
 <img src="demo/1.gif" alt="Demo1" width="400"/>
 <img src="demo/2.gif" alt="Demo2" width="400"/>

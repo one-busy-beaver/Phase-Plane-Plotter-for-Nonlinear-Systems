@@ -7,7 +7,7 @@ Users can input differential equations and visualize their vector fields in real
 - Download [Processing](https://processing.org/download).
 - Make sure to install the ControlP5 GUI library from Processing.
   - Step: Open Processing > Sketch > Import Library... > Manage Libraries... > Search for Control P5
-- Open Processing and run the PDE file. 
+- Open Processing and run the [PDE file](https://github.com/catloaf-cafe/Phase-Plane-Plot-for-Nonlinear-Systems/blob/main/plase_plane_plot/plase_plane_plot.pde). 
 ## How to Use
 - Left click and drag the grid.
 - Right click to place a red dot.

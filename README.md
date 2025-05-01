@@ -9,5 +9,5 @@
 - scroll
 - right click and place
 ## Citation
-- I used the exp4j Library for parsing mathematical expressions. 
+- I used the [exp4j Library](https://github.com/fasseg/exp4j) for parsing mathematical expressions. 
 

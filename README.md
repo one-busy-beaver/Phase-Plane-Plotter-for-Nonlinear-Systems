@@ -5,7 +5,8 @@ Users can input differential equations and visualize their vector fields in real
 ## Requirements
 - Download all files from this repository.
 - Download [Processing](https://processing.org/download).
-- Make sure to install the ControlP5 GUI library from Processing. 
+- Make sure to install the ControlP5 GUI library from Processing.
+  - Step: Open Processing > Sketch > Import Library... > Manage Libraries... > Search for Control P5
 - Open Processing and run the PDE file. 
 ## How to Use
 - Left click and drag the grid.

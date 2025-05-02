@@ -201,7 +201,7 @@ void statusText() {
  * pre: none.
  * post: return the vector at a given position in the system. 
  * @param posX position in x-axis, 
- *        posY position in y-axis.
+ * @param posY position in y-axis.
  * @return dir the vector at a given position.
  */
 PVector F(float posX, float posY) {
@@ -289,7 +289,7 @@ void drawPhasePlane() {
  * pre: none.
  * post: the arrow is drawn.
  * @param baseX position in x-axis, 
- *        baseY position in y-axis.
+ * @param baseY position in y-axis.
  */
 void drawArrow(float baseX, float baseY) {
     stroke(50);
@@ -354,8 +354,8 @@ void drawPoint() {
  * pre: none.
  * post: the position at the next timestep is calculated. 
  * @param h the time step, 
- *        x position in x-axis, 
- *        y position in y-axis.
+ * @param x position in x-axis, 
+ * @param y position in y-axis.
  * @return dir the position at the next timestep.
  */
 PVector RK4(float h, float x, float y) {

@@ -1,7 +1,5 @@
-# Phase Plane Plot for Nonlinear Systems
-## Introduction
-This is a simple phase plane plotter built with Processing.
-Users can input differential equations and visualize their vector fields in real time.
+# Phase Plane Plotter for Nonlinear Systems
+This is a simple phase plane plotter built with Processing. Users can input differential equations and visualize their vector fields in real time.
 ## Requirements
 - Download all files from this repository.
 - Download [Processing](https://processing.org/download).
